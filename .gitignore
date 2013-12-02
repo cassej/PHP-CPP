@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 *.o
 *.so
 *.txt
+=======
+*.cproject
+*.project
+*~
+*.o
+.settings*
+>>>>>>> photo/master

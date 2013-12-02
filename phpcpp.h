@@ -22,6 +22,7 @@
 /**
  *  Include all headers files that are related to this library
  */
+#include <phpcpp/constants.h>
 #include <phpcpp/type.h>
 #include <phpcpp/value.h>
 #include <phpcpp/hiddenpointer.h>
@@ -43,6 +44,10 @@
 #include <phpcpp/class.h>
 #include <phpcpp/classinfo.h>
 #include <phpcpp/extension.h>
+<<<<<<< HEAD
+=======
+#include <phpcpp/objectinfo.h>
+>>>>>>> photo/master
 #include <phpcpp/exception.h>
 
 /**
